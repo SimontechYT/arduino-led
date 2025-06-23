@@ -7,3 +7,5 @@ Questo progetto permette di accendere e spegnere un LED collegato al pin 13 di u
 - Python 3
 - Libreria `pyserial`
 - Libreria `tkinter` (di solito inclusa con Python)
+```bash
+python control_led.py
